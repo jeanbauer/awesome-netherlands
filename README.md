@@ -18,8 +18,11 @@ See [CONTRIBUTING](./CONTRIBUTING.md) to check how to run this documentation loc
 # Contributors
 
 <!-- contributors:start -->
- | [<img src="https://avatars2.githubusercontent.com/u/4689228?v=4" width="100px" /><br /><sub>jeanbauer</sub>](https://github.com/jeanbauer) | [<img src="https://avatars3.githubusercontent.com/u/15195125?v=4" width="100px" /><br /><sub>tatianeaguirres</sub>](https://github.com/tatianeaguirres)
-|---|---|---|---|---|
+
+| [<img src="https://avatars2.githubusercontent.com/u/4689228?v=4" width="100px" /><br /><sub>jeanbauer</sub>](https://github.com/jeanbauer) | [<img src="https://avatars3.githubusercontent.com/u/15195125?v=4" width="100px" /><br /><sub>tatianeaguirres</sub>](https://github.com/tatianeaguirres) |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+
 <!-- contributors:end -->
 
 # Awesome Netherlands 🤝 Awesome Berlin
