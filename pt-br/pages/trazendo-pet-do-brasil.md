@@ -31,7 +31,7 @@ Após a inserção do microchip, o próximo passo é a vacina anti-rábica. Ela 
 
 Obs: você pode fazer a vacinação um dia após a inserção do microchip, mas não é muito recomendado, pois caso seu pet tenha alguma reação a algum dos 2 procedimentos, você não saberá qual deles causou o problema.
 
-Dica: aproveite e já faça a aplicação da vacina polivalente (V8 ou V10), mesmo que ela não seja obrigatória para a documentação de imigração. Na Alemanha essa vacina também é aplicada anualmente nos animais. Confira se a vacina escolhida também seja contra Leptospirose, principalmente se você pretende chegar na Alemanha durante o inverno, pois há muitos ratos pela cidade.
+Dica: aproveite e já faça a aplicação da vacina polivalente (V8 ou V10), mesmo que ela não seja obrigatória para a documentação de imigração. Nos Países Baixos essa vacina também é aplicada anualmente nos animais. Confira se a vacina escolhida também seja contra Leptospirose, principalmente se você pretende chegar nos Países Baixos durante o inverno, pois há muitos ratos pela cidade.
 
 ## Sorologia anti-rábica
 
@@ -134,7 +134,7 @@ Essa inspeção deve ser feita no primeiro país que você entrar na União Euro
 Em cada aeroporto, o local onde o animal é inspecionado é diferente. Por exemplo, no aeroporto de Lisboa em Portugal, a sala do veterinário fica logo ao lado da esteira onde se retira as bagagens. Normalmente você encontra cartazes na parede com informações de como proceder.
 
 ATENÇÃO: Em alguns países (por exemplo, Portugal), você precisa agendar essa inspeção. [Clicando aqui](https://ec.europa.eu/food/animals/pet-movement/eu-legislation/non-commercial-non-eu/tpe_en), você encontra o contato de todos os _Travellers Point of Entry_ da UE. Na maioria dos países você pode fazer o agendamento por email, e não esqueça de incluir o número do voo que o animal vai chegar.
-Aproveite e se informe sobre o valor dessa inspeçāo. O valor varia em cada país (alguns não cobram nada), mas só para dar uma noção de valor, em Portugal custa 30 euros e na Alemanha 70 euros e normalmente só aceitam pagamento em dinheiro. Mas se informe, pois os valores podem ter mudado!
+Aproveite e se informe sobre o valor dessa inspeçāo. O valor varia em cada país (alguns não cobram nada), mas só para dar uma noção de valor, em Portugal custa 30 euros e nos Países Baixos 70 euros e normalmente só aceitam pagamento em dinheiro. Mas se informe, pois os valores podem ter mudado!
 
 Depois que o veterinário fizer a inspeção, ele vai assinar o CZI, e você deve sair da área de desembarque pela saída da Aduana/Alfândega em que você vai declarar o que está trazendo, e eles irão conferir se o veterinário assinou o CZI. Muitas pessoas costumam passar pela saída 'Nada a declarar', e não da nenhum problema, porém o correto seria passar pela Aduana/Alfândega declarando a entrada do animal.
 
