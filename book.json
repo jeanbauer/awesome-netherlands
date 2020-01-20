@@ -1,0 +1,31 @@
+{
+  "title": "Awesome Netherlands",
+  "plugins": [
+    "anchors",
+    "disqus",
+    "edit-link",
+    "ga",
+    "github-buttons",
+    "include"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "awesome-netherlands"
+    },
+    "edit-link": {
+      "base": "https://github.com/jeanbauer/awesome-netherlands/tree/master",
+      "label": {
+        "en": "Improve this page",
+        "pt-br": "Edite esta página"
+      }
+    },
+    "ga": {
+      "token": "UA-156558332-1"
+    },
+    "github-buttons": {
+      "repo": "jeanbauer/awesome-netherlands",
+      "types": ["star"],
+      "size": "medium"
+    }
+  }
+}
