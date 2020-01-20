@@ -1,6 +1,6 @@
 # Opening a bank account
 
-If you plan to work or live in Netherlands, having a Dutch bank account becomes mandatory.
+If you plan to work or live in the Netherlands, having a Dutch bank account becomes mandatory.
 Without one you will not be able to receive your salary. Opening a bank account is usually simple and fast.
 
 Below you will find the steps required to open a bank account in many different banks.

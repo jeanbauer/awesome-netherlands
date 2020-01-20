@@ -3,7 +3,7 @@
   "author": "Jean Bauer <jeanbauerc@gmail.com>",
   "version": "1.0.0",
   "license": "MIT",
-  "description": "A guide aiming to help ~~Brazillians~~ everyone to have a successfull start in Netherlands!",
+  "description": "A guide aiming to help ~~Brazillians~~ everyone to have a successfull start in the Netherlands!",
   "homepage": "https://github.com/jeanbauer/awesome-netherlands#readme",
   "scripts": {
     "clean": "rimraf _book",
@@ -21,6 +21,7 @@
     "guide",
     "docs",
     "Netherlands",
+    "the Netherlands",
     "Amsterdam",
     "expats"
   ],
