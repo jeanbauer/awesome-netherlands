@@ -5,7 +5,7 @@ A guide aiming to help newcomers to have a successful start in the Netherlands!
 Available in:
 
 - :brazil: [Português](https://jeanbauer.github.io/awesome-netherlands/pt-br/)
-- :us: [English](https://jeanbauer.github.io/awesome-netherlands/en/)
+- :gb: [English](https://jeanbauer.github.io/awesome-netherlands/en/)
 
 # Want to help?
 

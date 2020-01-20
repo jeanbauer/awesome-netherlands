@@ -1,5 +1,11 @@
 # Trazendo pet do brasil (cães e gatos)
 
+-> TODO_SEND_PR Adaptar para os Países Baixos
+
+⚠️ Este capítulo inteiro foi retirado de https://marlonbernardes.github.io/awesome-berlin/pt-br/pages/trazendo-pet-do-brasil.html
+
+Nota: As informações abaixo são para Alemanha, estão aqui até terminarmos esse capitulo para dar uma ideia. ⚠️
+
 O processo de imigração para cães e/ou gatos leva em torno de 5 meses, então se organize com antecedência!
 
 Para trazer seu pet você irá precisar:
