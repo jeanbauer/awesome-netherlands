@@ -1,6 +1,7 @@
 ## Índice
 
 1. [Introdução](/README.md#awesome-netherlands)
+1. [Ainda no Brasil](/pages/ainda-no-brasil#ainda-no-brasil)
 1. [Registro de residência](/pages/registro-de-residencia.md#registro-de-residência)
   1. [Pré-requisitos](/pages/registro-de-residencia.md#o-que-preciso-para-fazer-meu-registro-de-residência)
   1. [Preenchendo o formulário](/pages/registro-de-residencia.md#como-preencher-o-formulário-de-residência)
