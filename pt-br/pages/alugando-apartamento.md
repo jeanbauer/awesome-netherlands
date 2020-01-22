@@ -1,6 +1,6 @@
 > TODO_SEND_PR -> TRADUZIR
 
-# Renting an apartment
+# Alugando apartamento
 
 ## Requirements
 
