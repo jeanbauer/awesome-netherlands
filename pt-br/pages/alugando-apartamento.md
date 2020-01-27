@@ -1,48 +1,46 @@
-> TODO_SEND_PR -> TRADUZIR
-
 # Alugando apartamento
 
-## Requirements
+## Exigências
 
-TODO_SEND_PR
+Contrato de trabalho, folha de pagamento da sua empresa, cópia de passaportes.
 
-## Before you start your search
+## Antes de iniciar sua pesquisa
 
-- Long term rents will usually require you to make a security deposit after signing the rental agreement/contract. This will represent 1-3 times the amount of the rent. This amount will be given back to you 1 month after the contract ends.
-- The following questions could help you to better pick an apartment during your search:
-  - Is it furnished or does it have all the kitchen appliances?
-  - Are pets allowed?
-  - Do you know/like the neighborhood?
-  - Is there a garage/storage room for bikes and other objects?
-  - Is the heating via gas, electrical, oil or charcoal? Electrical heatings are usually less effective.j
-  - What is the energy efficiency of the apartment? This info can be found in the apartment description.
-  - How much is the security deposit?
-  - Are there supermarkets and stores close by?
-  - How close and easy to access is the public transportation? Where can you get from the apartment using the public transportation?
+- Aluguéis de longo prazo geralmente exigem que você faça um depósito de segurança após assinar o contrato / contrato de locação. Isso representará de 1 a 3 vezes o valor do aluguel. Este valor será devolvido 1 mês após o término do contrato.
+- As perguntas a seguir podem ajudá-lo a escolher melhor um apartamento durante sua pesquisa:
+     - Está mobilado ou tem todos os utensílios de cozinha?
+     - Animais de estimação são permitidos?
+     - Você conhece / gosta do bairro?
+     - Existe uma garagem / depósito para bicicletas e outros objetos?
+     - O aquecimento é a gás, elétrico, óleo ou carvão? Os aquecimentos elétricos geralmente são menos eficazes.j
+     - Qual é a eficiência energética do apartamento? Esta informação pode ser encontrada na descrição do apartamento.
+     - Quanto custa o depósito de segurança?
+     - Existem supermercados e lojas por perto?
+     - Quão perto e fácil o acesso é o transporte público? Onde você pode chegar do apartamento usando o transporte público?
 
-## Where to look
+## Onde procurar
 
-The most known website to search for an apartment is [Pararius](https://www.pararius.com).
-You can search by district, number of rooms or price, month that will be available, distance from work.
+O site mais conhecido para procurar um apartamento é [Pararius](https://www.pararius.com).
+Você pode pesquisar por bairro, número de quartos ou preço, mês que estará disponível, distância do trabalho.
 
-TODO_SEND_PR
+Gostou de algo? Ligue! Aqui nos Países Baixos o e-mail parece não ter ultrapassado o telefone quando o assunto é fechar negócio com imobiliária. Se gostou de algo ligue logo para o número nos sites e agende uma visita. A maioria das pessoas aqui falam inglês então a ligação não deve ser um problema.
 
-## The process
+## Passo a passo
 
-TODO_SEND_PR
+> Envie um PR com mais informações se você já passou por isso. Contando detalhes como lista de pessoas interessadas...
 
-## When you succeed in your application
+## Moradias mobiliadas
 
-TODO_SEND_PR
+Não tenho certeza sobre os pontos abaixo mas você pode ganhar alguns pontos com a imobiliária/dona se:
 
-### Security Deposit Account
+- Não tiver pets
+- Não tiver filhos (ou procurando casas/aptos pequenas)
+- Não fumar (nada)
 
-TODO_SEND_PR
+Caso você tenha algo acima, não se preocupe, será um pouco mais difícil de achar mas não impossível.
 
-### Getting the keys to your new apartment
+> Envie um PR com mais informações se você já passou por isso.
 
-TODO_SEND_PR
+### Depósito de segurança (caução)
 
-### Terminating the contract
-
-TODO_SEND_PR
+Geralmente o depósito de segurança fica entre 1 aluguel até 3 alugueis do imóvel. Deve ser pago na sua entrada na moradia.
