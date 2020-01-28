@@ -15,7 +15,7 @@
     - Este documento serve para provar que você e seu parceiro não são casados com nenhuma outra pessoa.
 - **Certidão de União Estável**
   > Adicionar informações se é necessário fazer certidão de união estável.
-- **Documentos para obter o 30% rulling** ver [aqui](./30-rulling.md)
+- **Documentos para obter o 30% rulling** ver [aqui](/pages/30-rulling.md)
 
 # Tradução
 

@@ -15,6 +15,7 @@
 1. [Telefone pré-pago](/pages/telefonia.md#telefone-pré-pago)
   1. [Operadoras](/pages/telefonia.md#algumas-opções-de-pré-pagos)
 1. [Abrindo uma conta bancária](/pages/conta-bancaria.md#abrindo-uma-conta-bancária)
+1. [30% rulling](/pages/30-rulling.md#30%-Rulling)
 1. [Sistema de saúde](/pages/seguro-saude.md#aplicando-para-o-seguro-de-saúde)
 1. [Trabalhando nos Países Baixos 🚧](/pages/previdencia-social.md#previdência-social)
 1. [Obtendo a carteira de motorista 🚧](/pages/obtendo-a-carteira-de-motorista.md)
