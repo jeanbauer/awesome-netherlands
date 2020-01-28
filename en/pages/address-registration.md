@@ -1,39 +1,39 @@
-> TODO_SEND_PR - translate this page
+# Address registration
 
-# Registro de residência
+The residence registration (called Verblijfstitel) is one of the most important - and urgent - steps that must be taken when arriving in the Netherlands. Everyone who comes to live here must attend an _Expat Center_ and register. I recommend that you register in the first days of your stay. The document received after the residence registration is very important, and without it you will not be able to receive your salary, open an account at many banks, sign contracts, etc.
 
-O registro de residência (chamado de Verblijfstitel) é uma das etapas mais importantes - e urgentes - que devem ser feitas ao chegar nos Países Baixos. Todos que vêm residir aqui devem comparecer em um _Expat Center_ e fazer este registro. Recomendo que o registro seja feito nos primeiros dias de sua estada. O documento recebido após o registro de residência é muito importante, e sem ele você não conseguirá receber seu salário, abrir conta em muitos bancos, assinar contratos, etc.
+Once you have this document you can use it daily instead of your Passport for simple activities.
 
-Uma vez com este documento você poderá usá-lo diariamente ao invés do seu Passaporte para atividades simples.
+## What you need for the registration?
 
-## O que preciso para fazer meu registro de residência?
+- Passport (or Passports, if more than one person is registered)
+- Rental / sublease agreement
+- Letter/Contract from the company hiring you
+- Birth certificate accompanied by sworn translation
+- Couples must bring a marriage certificate accompanied by a sworn translation (see [general tips](#tips))
 
-- Passaporte (ou Passaportes, no caso de registro de mais de uma pessoa)
-- Contrato de aluguel/sublocação OU carta da empresa que está te contratando
-- Certidão de nascimento acompanhada de tradução juramentada
-- Casais devem levar certidão de casamento acompanhada de tradução juramentada (ver [dicas gerais](#dicas-gerais))
+## How to fill out the form?
 
-## Como preencher o formulário de residência?
+In my case, I didn't have to fill anything before going to the Expat Center.
+Once there, I was given the form and explained how to fill it out in a very friendly way (normal for Netherlands).
 
-No meu caso eu não precisei preencher nada antes da própria ida ao Expat Center.
-Uma vez lá me foi dado o formulário e explicado como preencher de uma forma bem amigável (normal para a Holanda).
+## How the registration works?
 
-<!-- Abaixo um exemplo de formulário preenchido seguido de explicações: -->
-<!-- ![formulario (english)](TODO_SEND_PR) -->
+- Have all the necessary documents (passport, rental contract, employment contract, etc.)
 
-## Como fazer o registro?
+**1) your company can schedule**
 
-- Tenha todos os documentos necessários (passaporte, contrato de aluguel, contrato de trabalho, etc)
+This was my case. Ask your company before making a move.
 
-**1) agendar um horário de atendimento em um Expat center pelo telefone**
+**2) schedule an appointment at an Expat center by phone**
 
 0402386244
 
-**2) ir diretamente no Expat Center, sem agendamento.**
+**3) go directly to the Expat Center, without scheduling**
 
-TODO_SEND_PR: Verificar se essa opção é válida.
+> TODO_SEND_PR: Check if this option is valid. ⚠️
 
-## Dicas gerais
+## Tips
 
-- A maioria dos funcionários sabem falar inglês (muito bem).
-- Embora alguns lugares dizem que a certidão de solteiro/casado é um documento obrigatório, não me foi requisitado. Leve mesmo assim!
+- Most employees can speak English (very well).
+- Although some places say that the single / married certificate is a mandatory document, they didn't ask me. Take it anyway!
