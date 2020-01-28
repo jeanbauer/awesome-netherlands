@@ -7,29 +7,31 @@ Uma vez com este documento você poderá usá-lo diariamente ao invés do seu Pa
 ## O que preciso para fazer meu registro de residência?
 
 - Passaporte (ou Passaportes, no caso de registro de mais de uma pessoa)
-- Contrato de aluguel/sublocação OU carta da empresa que está te contratando
+- Contrato de aluguel/sublocação
+- Carta/Contrato da empresa que está te contratando
 - Certidão de nascimento acompanhada de tradução juramentada
 - Casais devem levar certidão de casamento acompanhada de tradução juramentada (ver [dicas gerais](#dicas-gerais))
 
 ## Como preencher o formulário de residência?
 
 No meu caso eu não precisei preencher nada antes da própria ida ao Expat Center.
-Uma vez lá me foi dado o formulário e explicado como preencher de uma forma bem amigável (normal para a Holanda).
-
-<!-- Abaixo um exemplo de formulário preenchido seguido de explicações: -->
-<!-- ![formulario (english)](TODO_SEND_PR) -->
+Uma vez lá me foi dado o formulário e explicado como preencher de uma forma bem amigável (normal para os Países Baixos).
 
 ## Como fazer o registro?
 
 - Tenha todos os documentos necessários (passaporte, contrato de aluguel, contrato de trabalho, etc)
 
-**1) agendar um horário de atendimento em um Expat center pelo telefone**
+**1) sua empresa agenda o horário**
+
+Esse foi meu caso. Pergunte a sua empresa antes de tomar outra ação.
+
+**2) agendar um horário de atendimento em um Expat center pelo telefone**
 
 0402386244
 
-**2) ir diretamente no Expat Center, sem agendamento.**
+**3) ir diretamente no Expat Center, sem agendamento.**
 
-TODO_SEND_PR: Verificar se essa opção é válida.
+> TODO_SEND_PR: Verificar se essa opção é válida. ⚠️
 
 ## Dicas gerais
 
