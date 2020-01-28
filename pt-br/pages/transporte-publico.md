@@ -10,11 +10,13 @@ Para trem eu utilizo o aplicativo da própria NS: [Play Store](https://play.goog
 
 ## Como comprar tickets
 
-Antes de comprar os tickets, é preciso decidir qual ticket comprar.
+Todas as máquinas possuem opção de escolher Inglês como linguagem.
+
+> TODO_SEND_PR foto pequena mostrando opções. ⚠️
 
 ## Adquirindo o cartão transporte
 
-[Apply for personal ov chipkaart](https://www.ov-chipkaart.nl/purchase-an-ov-chipkaart/apply-for-personal-ov-chipkaart.htm)
+[Aplicar para um cartão pessoal da OV](https://www.ov-chipkaart.nl/purchase-an-ov-chipkaart/apply-for-personal-ov-chipkaart.htm)
 
 ## Adquirindo uma mensalidade para seu cartão de transporte
 
@@ -30,15 +32,3 @@ Separei as que vejo o pessoal utilizando:
 Existem mais opções aqui: [NL Subscriptions](https://www.ns.nl/en/nsflex/webshop#/bestelling/producten).
 
 Por ser um mensalista você pode utilizar as bikes da NS. ([Ver como](https://www.ns.nl/en/door-to-door/ov-fiets/how-the-ov-fiets-works.html))
-
-## Bike
-
-Bicicletas são muito comuns aqui, inclusive existe mais bicicletas que pessoas. Alguns sites dizem que aqui as pessoas pedalam em média 2.9km/dia!
-
-Existem ciclovias e ciclofaixas em praticamente todo lugar. O ciclista é muito respeitado aqui, afinal o país inteiro pedala.
-
-Onde alugar: https://swapfiets.nl/en/
-Preço: € 19
-Pré-requisitos: Ter um IBAN (International Bank Account Number)
-
-Comprar ou alugar? Realmente depende dos seus planos mas eu aconselho você alugar primeiro até decidir qual bike ter aqui, como funciona as ruas, qual cadeado comprar (infelizmente se rouba muita bike por aqui).
