@@ -18,7 +18,6 @@
   1. [Traditional Banks](/pages/bank-account.md#traditional-banks)
   1. [Online Banks](/pages/bank-account.md#online-banks)
 1. [Health Insurance](/pages/health-insurance.md#health-insurance)
-  1. [Public health insurance](/pages/health-insurance.md#public-health-insurance)
 1. [Working in Netherlands](/pages/working.md#working-in-netherlands)
 1. [Obtaining a Drivers License](/pages/obtaining-a-drivers-license.md#obtaining-a-drivers-license)
 1. [Renting an apartment](/pages/renting-an-apartment.md#renting-an-apartment)
