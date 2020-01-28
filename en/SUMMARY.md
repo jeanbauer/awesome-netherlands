@@ -23,5 +23,5 @@
 1. [Renting an apartment](/pages/renting-an-apartment.md#renting-an-apartment)
   1. [Requirements](/pages/renting-an-apartment.md#requirements)
   1. [Before you start](/pages/renting-an-apartment.md#before-you-start-your-search)
-  1. [The process](/pages/renting-an-apartment.md#the-process)
+  1. [Where to search](/pages/renting-an-apartment.md#where-to-search)
 1. [Social Networks](/pages/social-networks.md#social-networks)

@@ -2,7 +2,7 @@
 
 ## Requirements
 
-TODO_SEND_PR
+Employment contract, your company's payroll, copy of passports.
 
 ## Before you start your search
 
@@ -18,29 +18,29 @@ TODO_SEND_PR
   - Are there supermarkets and stores close by?
   - How close and easy to access is the public transportation? Where can you get from the apartment using the public transportation?
 
-## Where to look
+## Where to search
 
-The most known website to search for an apartment is [Pararius](https://www.pararius.com).
-You can search by district, number of rooms or price, month that will be available, distance from work.
+One of the best known site for searching for an apartment is [Pararius](https://www.pararius.com).
+You can search by neighborhood, number of rooms or price, month that will be available, distance from work.
 
-TODO_SEND_PR
+Did you like something? Call! Here in the Netherlands e-mail does not seem to have passed the phone when it comes to closing deals with real estate. If you liked something, call the number on the sites and schedule a visit. Most people here speak English so the call shouldn't be a problem.
 
-## The process
+## Step by step
 
-TODO_SEND_PR
+> Send a PR with more information if you have been there. Telling details like list of interested people, explain that finding a house here is like finding a relationship, there's a queue of people ... ⚠️
 
-## When you succeed in your application
+## Furnished houses
 
-TODO_SEND_PR
+I'm not sure about the points below but you can make good impressions with the real estate / owner if you:
 
-### Security Deposit Account
+- Do not have pets
+- Have no children (or looking for small houses / apartments)
+- No smoking (nothing)
 
-TODO_SEND_PR
+If you have something above, don't worry, it will be a little harder to find but not impossible.
 
-### Getting the keys to your new apartment
+> Send a PR with more information if you have been there. ⚠️
 
-TODO_SEND_PR
+### Security deposit (security deposit)
 
-### Terminating the contract
-
-TODO_SEND_PR
+Generally, the security deposit is between 1 rental and 3 rentals of the property. It must be paid at the entrance to the house.
