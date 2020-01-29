@@ -19,8 +19,8 @@ See [CONTRIBUTING](./CONTRIBUTING.md) to check how to run this documentation loc
 
 <!-- contributors:start -->
 
-| [<img src="https://avatars2.githubusercontent.com/u/4689228?v=4" width="100px" /><br /><sub>jeanbauer</sub>](https://github.com/jeanbauer) | [<img src="https://avatars3.githubusercontent.com/u/15195125?v=4" width="100px" /><br /><sub>tatianeaguirres</sub>](https://github.com/tatianeaguirres) |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [<img src="https://avatars2.githubusercontent.com/u/4689228?v=4" width="100px" /><br /><sub>jeanbauer</sub>](https://github.com/jeanbauer) | [<img src="https://avatars3.githubusercontent.com/u/15195125?v=4" width="100px" /><br /><sub>tatianeaguirres</sub>](https://github.com/tatianeaguirres) | [<img src="https://avatars3.githubusercontent.com/u/284888?v=4" width="100px" /><br /><sub>eliasnogueira</sub>](https://github.com/eliasnogueira) |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 <!-- contributors:end -->
