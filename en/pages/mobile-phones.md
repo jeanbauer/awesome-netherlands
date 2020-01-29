@@ -1,23 +1,25 @@
-> TODO_SEND_PR -> TRADUZIR
+# Pre-paid options
 
-# Telefone pré-pago
+The most known mobile operators in the Netherlands are T-Mobile and Vodafone. The easiest way to get a pre-paid number is finding one store of those providers (tip: there are many of them in the most known Dutch cities).
+The SIM Card + activation + initial credit cost around €10 and €25.
 
-As operadoras de telefone mais conhecidas na Holanda são T-Mobile e Vodafone. A forma mais fácil de conseguir um número pré-pago é procurar uma das lojas dessas operadoras (dica: há milhares delas espalhadas na cidade). O valor do chip + ativação + saldo inicial costuma ser algo entre €10 e €25.
+Important: to have a contract plan you'll need a BSN (Citizen Service Number). So, until you get your BSN it's highly recommended to start with a pre-paid plan.
 
-Há um motivo por eu ter dito "pré-pago" no título dessa seção:
-Para ter um telefone **pós**-pago você precisa ter o BSN (Citizen Service Number). Como isso pode demorar um pouco, recomendo começar com um telefone pré-pago!
+# Activation
 
-# Ativação
+Each mobile operator has its specific activation process.
 
-Cada operadora tem um processo diferente de ativação.
+Vodafone requires you to call to a specific number, then you should wait until the end of the Dutch speech to get the English menu. After that you just need to follow the steps in this menu.
 
-Vodafone requer que você ligue para um número especial, espere até o final da fala em holandês para começar o menu em inglês. Depois siga as instruções.
+# Airport
 
-# Aeroporto
+Almost all Dutch airports have their own public Wi-Fi network, in addition there are many other stores that "sells" Wi-Fi signal like Starbucks.
 
-A maioria dos aeroportos tem Wi-Fi aqui, caso esteja indisponível, existem Starbucks e outros lugares que "vendem" Wi-Fi.
-
-## Algumas opções de pré-pagos
+## A few options of pre-paid plans
 
 - [https://www.vodafone.de/](https://www.vodafone.nl/)
 - [https://www.t-mobile.nl/](https://www.t-mobile.nl/)
+
+---
+
+- Read more in: [https://moving-to-amsterdam.nl/mobile-operators-netherlands](https://moving-to-amsterdam.nl/mobile-operators-netherlands)
