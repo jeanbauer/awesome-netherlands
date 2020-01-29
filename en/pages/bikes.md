@@ -6,7 +6,7 @@ There are bike lanes and bike lanes almost everywhere. The cyclist is very respe
 
 Where to rent: https://swapfiets.nl/en/
 
-Price: € 19
+Price: starting from € 16.50 
 
 Prerequisites: Have an IBAN (International Bank Account Number)
 
