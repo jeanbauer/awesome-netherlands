@@ -6,7 +6,7 @@ In general, public transport in the Netherlands is excellent. There is always a 
 
 Google Maps works well to show the fastest paths and options.
 
-For trains I use NS's own app: [Play Store](https://play.google.com/store/apps/details?id=nl.ns.android.activity&hl=en_US)
+For trains I use NS's own app: [Play Store](https://play.google.com/store/apps/details?id=nl.ns.android.activity&hl=en_US) | [Apple Store](https://apps.apple.com/app/ns-travel-planner/id370362301)
 
 ## How to buy tickets
 
