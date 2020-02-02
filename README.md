@@ -14,6 +14,7 @@ Contributions are welcome and are greatly appreciated!
 Every little bit helps. Pull-requests are always welcome!
 
 See [CONTRIBUTING](./CONTRIBUTING.md) to check how to run this documentation locally.
+Please, read our [CODE OF CONDUCT](./CODE_OF_CONDUCT.md)
 
 # Contributors
 
