@@ -14,6 +14,7 @@ request(options, (error, response, body) => {
   }
 
   const contributors = JSON.parse(body);
+
   const filteredContributors = contributors
     .sort(additionsComparator)
     .filter(meetsMinimumContributionCriteria);
@@ -31,7 +32,7 @@ function handleHttpError(error, response, body) {
 }
 
 function meetsMinimumContributionCriteria(contributor, index) {
-  return computeContributorAdditions(contributor) > 2;
+  return computeContributorAdditions(contributor) >= 2;
 }
 
 function computeContributorAdditions(contributor) {
