@@ -33,7 +33,7 @@ A ordem que eu fiz foi:
 - tradução do documento original
 - apostila do documento traduzido
 
-Mas existem alguns relatos (ver seção de crédtiso abaixo) que dizem:
+Mas existem alguns relatos (ver seção de créditos abaixo) que dizem:
 
 - tradução do documento original
 - apostila do documento original e da tradução
